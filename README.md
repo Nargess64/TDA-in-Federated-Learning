@@ -5,8 +5,11 @@ Learning with Persistence Diagrams“
 
 Please note: This repository is a work in progress!
 
+# Citation
+
 
 If you use this code, please consider citing our paper:
+
 @conference{icissp25,
 author={Narges Alipourjeddi and Ali Miri},
 title={Topology-Driven Defense: Detecting Model Poisoning in Federated Learning with Persistence Diagrams},
